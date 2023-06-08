@@ -1,0 +1,26 @@
+.items{
+    border: none !important;
+    padding: 2%;
+}
+span:hover{
+    background-color: rgb(232, 231, 231);
+    border-radius: 20px;
+    
+}
+.searchbar:hover{
+     color:  rgb(107, 193, 240);
+     border: 2px solid rgb(107, 193, 240) !important;
+}
+.follow:hover{
+    background-color: rgb(232, 231, 231);
+}
+.out{
+    outline: none;  
+}
+#line:hover{
+    background-color: rgb(232, 231, 231);
+}
+.bgblur{
+    /* background-clip:  */
+    /* -webkit-filter: blur(2px); */
+}

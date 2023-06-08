@@ -1,0 +1,31 @@
+.inputcls {
+    box-sizing: border-box;
+    height: 70px;
+    width: 70%;
+    border: none;
+    outline: none;
+    font-size: large;
+    border-radius: 10px;
+
+}
+
+.emailfield:hover {
+    box-shadow: 4px 3px 10px 3px rgb(35, 183, 224);
+
+    border: none;
+}
+
+.emailfield {
+    display: inline-block;
+    width: 100%;
+}
+
+.formdiv~div {
+    margin-top: 5%;
+}
+
+.inputbox{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(79, 189, 240);
+}
